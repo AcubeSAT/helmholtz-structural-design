@@ -21,10 +21,10 @@ https://autode.sk/3QhkKli
 Bracket for Z coils mounting:
 https://autode.sk/3NKaX5m
 
-![Helmholtz_Cage](https://ibb.co/P4Rzhsf)
+![Helmholtz_Cage](https://i.ibb.co/Cvqs7pT/Cage.png)
 
-![Frame](https://ibb.co/5xHqS9M)
+![Frame](https://i.ibb.co/Lh74cPk/Frame.png)
 
-![Coil](https://ibb.co/bPDP4kz)
+![Coil](https://i.ibb.co/s2z2TZy/Coil.png)
 
 ## Have fun!
