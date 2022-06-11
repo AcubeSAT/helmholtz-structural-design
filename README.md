@@ -21,6 +21,8 @@ https://autode.sk/3QhkKli
 Bracket for Z coils mounting:
 https://autode.sk/3NKaX5m
 
+![image-1.png](./image-1.png)
 
+<figcaption align = "center"><b>Fig.1 - Helmholtz cage</b></figcaption>
 
 Have fun!
